@@ -1,6 +1,6 @@
 ---
 title: "Data Preprocessing in Machine Learning"
-date: December 14, 2019
+date: 2019-12-14
 tags: [Preprocess Dataset]
 header:
   image: "/images/perceptron/percept.jpg"
@@ -53,12 +53,12 @@ import os
 import sys
 
 path = os.getcwd()
-path = os.path.join(path, 'Data_Preprocessing')
 print(path)
 ```
 
     /media/nahid/New Volume/Data Science/Github/Machine-Learning/Java-T-Point/Data_Preprocessing
 
+    path = os.path.join(path, 'Data_Preprocessing')
 
 
 ```python
