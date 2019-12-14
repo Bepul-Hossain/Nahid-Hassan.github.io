@@ -1,5 +1,6 @@
 ---
 title: "About"
+author_profile: true
 permalink: /about/
 header:
   image: "/images/zakim.jpg"
