@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Md. Nahid Hassan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/bio.JPG"
   bio              : "I am Md. Nahid Hassan, student in the Department of Computer Science and Engineering (C.S.E), University of Rajshahi."
   location         : "Rajshahi, Dhaka, Bangladesh"
   email            :
