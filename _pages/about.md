@@ -26,7 +26,7 @@ Machine Learning Algorithms, Data Analytics, Natural Language Processing, Data V
 [Curriculum Vitae](https://docs.google.com/document/d/1zipcqtAn30aoBAtbXskZXf0427qziwfzI7FmeTCy5qU/edit?usp=sharing).
 
 ## Contact
-You can reach me through email at [Mail](nahid.cseru@gmail.com),
+You can reach me through email at nahid.cseru@gmail.com,
 
 LinkedIn Profile: [Md. Nahid Hassan](https://www.linkedin.com/in/md-nahid-hassan-a3639317a/)
 
