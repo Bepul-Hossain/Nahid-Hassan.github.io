@@ -7,7 +7,8 @@ header:
 excerpt: "Python Inheritance"
 mathjax: "true"
 ---
-It is a universal fact that every student is a person. This is in hindsight of non-human students if any. To depict this relationship, we take an illustration.
+It is a universal fact that every student is a person. This is in hindsight of
+non-human students if any. To depict this relationship, we take an illustration.
 
                       Person
                         ^
