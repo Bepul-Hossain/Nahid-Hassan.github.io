@@ -5,8 +5,9 @@ main:
 
   - title: "Machine Learning"
     url: /machine-learning/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+
+  - title: "Data Science"
+    url: /data-science/
   #  - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
