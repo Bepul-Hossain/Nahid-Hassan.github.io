@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nahid"
+title                    : "Md. Nahid Hassan"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Md. Nahid Hassan"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Md. Nahid Hassan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am Md. Nahid Hassan, student in the Department of Computer Science and Engineering (C.S.E), University of Rajshahi. I joined of this department in February, 2017. I am very much passionate to learn/think how to solve real-life problem. I want to work with Data Science & It's Related Field."
+  bio              : "I am Md. Nahid Hassan, student in the Department of Computer Science and Engineering (C.S.E), University of Rajshahi."
   location         : "Rajshahi, Dhaka, Bangladesh"
   email            :
   linkedin         : md-nahid-hassan-a3639317a
