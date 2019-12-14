@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Archive
 permalink: /about/
 title: "About"
 description: "What I am and what I do."
