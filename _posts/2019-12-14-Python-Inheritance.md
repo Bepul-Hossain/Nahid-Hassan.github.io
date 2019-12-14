@@ -1,5 +1,5 @@
 ---
-title: "Inheritance in Python`"
+title: "Inheritance in Python"
 date: 2019-12-14
 tags: [Python]
 header:
@@ -13,7 +13,9 @@ It is a universal fact that every student is a person. This is in hindsight of n
                         ^
                         |
                       Student
-The relationship from person to a student is termed ‘Specialization’. Conversely, every student is a person, this is called Generalization. In this representation, we use an arrow towards the base class as a UML (Unified Modeling Language) convention.
+The relationship from person to a student is termed ‘Specialization’. Conversely,
+every student is a person, this is called Generalization. In this representation,
+we use an arrow towards the base class as a UML (Unified Modeling Language) convention.
 Here, Person can be called any of the following:
 
     1. Super Class
@@ -45,7 +47,9 @@ issubclass(Student, Person), issubclass(Person, Student)
     (True, False)
 
 
-Here, class Student inherits from class Person. Here, since we only want to focus on the python syntax, we use the ‘pass’ statement in the bodies of the classes. Also, we use the function issubclass() to confirm that student is a subclass of person.
+Here, class Student inherits from class Person. Here, since we only want to focus
+on the python syntax, we use the ‘pass’ statement in the bodies of the classes.
+Also, we use the function issubclass() to confirm that student is a subclass of person.
 # Types of Inheritance in Python
 There are five types of inheritance in python, we observe.
 a. Single Inheritance in Python
