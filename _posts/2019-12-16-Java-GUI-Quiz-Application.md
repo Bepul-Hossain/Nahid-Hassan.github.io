@@ -3,7 +3,7 @@ title: "Java Quiz Application using Swing"
 date: 2019-12-14
 tags: [Java Swing]
 header:
-  image: "/images/Quiz.jpg"
+  image: "/images/java-quiz.jpg"
 excerpt: "Java Quiz"
 mathjax: "true"
 ---
