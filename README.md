@@ -3,7 +3,7 @@ I am Md. Nahid Hassan, student  in the Department of [Computer Science and Engin
 
 
 # Education
-I have completed my **SSC** from [Jamalpur Zilla School](http://www.jzs.edu.bd/) in 2014. Then I completed my **HSC** from the [Govt. Ashek Mahmud College](http://amc.edu.bd/) in 2016. Both Result are very much pleasent.
+Currently I am student of [Computer Science and Engineering(CSE), University of Rajshahi](http://www.ru.ac.bd/cse/)
 
 # Curriculum Vitae
 
