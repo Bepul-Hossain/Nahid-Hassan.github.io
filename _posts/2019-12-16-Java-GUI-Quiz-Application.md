@@ -28,8 +28,6 @@ This is simple Java Swing based GUI application that I create my departmental as
  * Then after all if you click on the question option button then question frame and help frame is currently dispose
  * and two new frame is created instantly. One frame show your answer is correct or not and another frame is showing
  * the your current score.
- *
- * Continue..................................later added some more documentation.
  */
 ```
 
