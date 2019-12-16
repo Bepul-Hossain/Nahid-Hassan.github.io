@@ -55,7 +55,7 @@ ls
 ```
 
      [0m[01;34mCRUD-API[0m/          [01;34mDEPT[0m/   [01;34mImages[0m/  'Python OS module.ipynb'
-     [01;34mCRUD-API-master[0m/   file    [01;34mOther[0m/    [01;34mSDL_Group_Project[0m/
+     [01;34mCRUD-API-master[0m/   file    [01;34mOther[0m/    [01;34mSDL_Group_Project[0m/ 
 
 
 
