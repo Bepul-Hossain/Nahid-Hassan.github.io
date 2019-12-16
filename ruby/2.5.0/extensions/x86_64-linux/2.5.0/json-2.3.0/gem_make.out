@@ -1,0 +1,7 @@
+current directory: /media/nahid/New Volume/Data Science/Data-Science-Portfolio/Nahid-Hassan.github.io/ruby/2.5.0/gems/json-2.3.0/ext/json/ext/generator
+/usr/bin/ruby2.5 -I /usr/local/lib/site_ruby/2.5.0 -r ./siteconf20191216-26784-1ery4bx.rb extconf.rb
+/usr/lib/ruby/vendor_ruby/rubygems/defaults/operating_system.rb:10: warning: constant Gem::ConfigMap is deprecated
+/usr/lib/ruby/vendor_ruby/rubygems/defaults/operating_system.rb:10: warning: constant Gem::ConfigMap is deprecated
+mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
+
+extconf failed, exit code 1
