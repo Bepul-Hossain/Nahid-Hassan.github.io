@@ -3,7 +3,7 @@ title: "Linear Regression using Least-Square Method"
 date: 2019-12-21
 tags: [LR-LSM, R^2 Method, Standard Error]
 header:
-  image: "/images/output_6_0.png"
+  image: "/images/linear-regression-home.jpg"
 excerpt: "LR-LSM, R^2 Method, Standard Error"
 mathjax: "true"
 ---
