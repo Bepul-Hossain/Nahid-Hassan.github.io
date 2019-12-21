@@ -11,16 +11,16 @@ mathjax: "true"
 In statistics, linear regression is a linear approach to modelling the relationship between a dependent variable and one or more independent variables. In the case of one independent variable it is called simple linear regression. For more than one independent variable, the process is called mulitple linear regression. We will be dealing with simple linear regression in this tutorial.
 Let X be the independent variable and Y be the dependent variable.
     
-                                          Y = mX + c
+                             Y = mX + c
              
-### Whole Process
+### Whole Process  
 ![LRLSQM](/images/linear-regression-using-least-square-method.png)
 [How to calculate linear regression using least square method
-](https://youtu.be/JvS2triCgOY?list=PLF596A4043DBEAE9C)
+](https://youtu.be/JvS2triCgOY?list=PLF596A4043DBEAE9C)  
 
-### Method
-![LRM](/images/linear-regression-method.png)
-[linear-regression-using-least-squares](https://towardsdatascience.com/linear-regression-using-least-squares-a4c3456e8570)
+### Method  
+![LRM](/images/linear-regression-method.png)  
+[linear-regression-using-least-squares](https://towardsdatascience.com/linear-regression-using-least-squares-a4c3456e8570)  
 
 
 
@@ -91,7 +91,7 @@ plt.show()
 ![png](/images/output_6_0.png)
 
 
-## Calculate R Squared Using Regression Analysis
+## Calculate R^2 Using Regression Analysis
 
 ### Visualization Process
 ![R Squared1](/images/r-square-method1.png)
