@@ -1,7 +1,7 @@
 ---
 title: "Linear Regression using Least-Square Method"
 date: 2019-12-21
-tags: [LR-LSM, R^2 Method, Standard Error]
+tags: [LR-LSM, R^2 Method, Standard Error, Data Science]
 header:
   image: "/images/linear-regression-home.jpg"
 excerpt: "LR-LSM, R^2 Method, Standard Error"
