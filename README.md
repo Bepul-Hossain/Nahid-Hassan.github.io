@@ -7,7 +7,7 @@ Currently I am student of [Computer Science and Engineering(CSE), University of 
 
 # Curriculum Vitae
 
-[Curriculum Vitae](https://docs.google.com/document/d/1zipcqtAn30aoBAtbXskZXf0427qziwfzI7FmeTCy5qU/edit?usp=sharing).
+[Curriculum Vitae](https://drive.google.com/open?id=1VUYAj7n_rvCKPLRLsxYNyqmx_kqTQVw2).
 
 # Contact
 

@@ -23,7 +23,7 @@ For use with concepts such as:
 Machine Learning Algorithms, Data Analytics, Natural Language Processing, Data Visualization • Software Engineering • Web Application Development, <em>and more!</em>
 
 ## Curriculum Vitae
-[Curriculum Vitae](https://docs.google.com/document/d/1zipcqtAn30aoBAtbXskZXf0427qziwfzI7FmeTCy5qU/edit?usp=sharing).
+[Curriculum Vitae](https://drive.google.com/open?id=1VUYAj7n_rvCKPLRLsxYNyqmx_kqTQVw2).
 
 ## Contact
 You can reach me through email at nahid.cseru@gmail.com,
